@@ -1,4 +1,4 @@
-👋 Hello, I am Navid Bin Ahmed from Bangladesh, an experienced **Embedded and AI** enthusiast.
+👋 Hello, I am from Bangladesh, an experienced **Embedded and AI** enthusiast.
 
 👀 Contributing in ML/AI, having industry experience in developing Embedded IoT Systems using C/C++ firmware and electronics.
 
