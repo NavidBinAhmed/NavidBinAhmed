@@ -6,4 +6,4 @@
 
 💞️ Look forward to collaborating in exciting and groundbreaking AIoT, ML/AI and Embedded IoT projects.
 
-📫 Reach me over https://linkedin.com/in/navidbinahmed or https://navidbinahmed.com
+📫 Reach me over [Linkedin](https://linkedin.com/in/navidbinahmed) or [Portfolio Website](https://navidbinahmed.com)
