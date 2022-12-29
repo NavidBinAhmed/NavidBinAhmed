@@ -1,6 +1,6 @@
 👋 Hello, I am from Bangladesh, an experienced **Embedded and AI** enthusiast.
 
-👀 Contributing in ML/AI, having industry experience in developing Embedded IoT Systems using C/C++ firmware and electronics.
+👀 Contributing in ML/AI, having industry experience in developing Embedded IoT Systems using C/C++ for firmware and electronics.
 
 🌱 Active practitioner of 3 of the world's most admired programming languages: Python, C and C++. Python for AI, C/C++ for IoT
 
