@@ -4,7 +4,7 @@
 
 👀 Contributing inclusively in ML and AI, have strong industry experience of **serving various client settings globally**.
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,c++,javascript,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript,aws&theme=light)](https://skillicons.dev)
 
 🌱 Active practitioner of **Python for AI** and **worked in C/C++ for IoT**: 3 of the **world's most admired** programming languages. 
 
