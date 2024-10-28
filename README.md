@@ -3,7 +3,7 @@
 👨‍💻 **AI Developer** with experience in **Full-Stack ML & AIoT** development with international recognition of performance.
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ai,c,cpp,javascript,aws&theme=light)](https://skillicons.dev)
 
 🌱 Active practitioner of **Python for AI** and **worked in C/C++ for IoT**: 3 of the **world's most admired** programming languages. 
 
