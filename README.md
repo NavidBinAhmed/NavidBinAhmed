@@ -1,12 +1,9 @@
-👋 **An achievement-focused** tech-enthusiast from Bangladesh.
-
+👋 **Achievement-focused Python dev-enthusiast** from Bangladesh. Active practitioner of **Python for AI and web-tech, C/C++ for IoT**.
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,ai,c,cpp,javascript,aws&theme=light)](https://skillicons.dev)
 
 👨‍💻 **AI Developer** with experience in **Full-Stack ML & AIoT** development.
-
-🌱 Active practitioner of **Python for AI** and **worked in C/C++ for IoT**: 3 of the **world's most admired** programming languages. 
 
 
 
