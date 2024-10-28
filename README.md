@@ -13,4 +13,4 @@
 💞️ Look forward to working with the challenging and exciting **AI teams** to utilize my award-winning leadership and technical skills.
 
 📫 Can be reached over [LinkedIn](https://linkedin.com/in/navidbinahmed) or [Portfolio](https://navidbinahmed.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://linkedin.com/in/navidbinahmed])
+[![](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/navidbinahmed)
