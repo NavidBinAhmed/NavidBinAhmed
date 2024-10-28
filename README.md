@@ -1,4 +1,4 @@
-👋 ### **An achievement-focused** tech-enthusiast from Bangladesh.
+👋 **An achievement-focused** tech-enthusiast from Bangladesh.
 
 
 
