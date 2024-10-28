@@ -14,7 +14,4 @@
 
 
 
-📫 Can be reached over [![](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/navidbinahmed) **(LinkedIn)** or [Portfolio](https://navidbinahmed.com)
-
-[website[](https://skillicons.dev/icons?i=web&theme=light)](https://navidbinahmed.com)
-
+📫 Can be reached over [![](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/navidbinahmed) **(LinkedIn)** or [**Portfolio**](https://navidbinahmed.com)
