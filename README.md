@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,ai,javascript,aws&theme=light)](https://skillicons.dev)
 
-👨‍💻 **AI Developer** with experience in **Full-Stack ML & AIoT** development.
+👨‍💻 **AI Developer** with experience in **Full-Stack Machine Learning & AIoT** development.
 
 
 
