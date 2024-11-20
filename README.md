@@ -6,7 +6,7 @@
 
 
 
-👀 Contributing inclusively in ML and AI, have strong industry experience of **serving various client settings globally**.
+👀 Contributing inclusively by **serving various client settings globally**.
 
 
 
