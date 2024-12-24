@@ -90,9 +90,8 @@
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/I2S-Sound-based-Predictive-Analytics-System)
 
 ### 6. ‘AirOne Guardian’ IoT-based mobile-web app
-   • Collaborator and researcher
    • **Tools**: Node.JS, Flutter, IoT
-  • **Role, Company (Year)**: Technical Research Associate, ReliSource US Inc (2021-22) 
+   • **Role, Company (Year)**: Technical Research Associate, ReliSource US Inc (2021-22) 
    • **Details Demo**: Link is yet to be updated
 
 ### 5. PEMF pain-healing machine
