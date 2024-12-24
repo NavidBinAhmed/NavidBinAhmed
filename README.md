@@ -4,13 +4,7 @@
 
 👨‍💻 **AI Developer** with experience in **Full-Stack Machine Learning & AIoT** development.
 
-
-
-👀 Contributing inclusively by **serving various client settings globally**.
-
-
-
-📫 Can be reached over [![](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/navidbinahmed) **(LinkedIn)** or [**Portfolio**](https://navidbinahmed.com)
+📫 Can be reached over [**LinkedIn**](https://linkedin.com/in/navidbinahmed) or [**Portfolio**](https://navidbinahmed.com)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,7 +15,7 @@
 
 
 
-   ________________________________________________
+
 ### 19. EaM Service website (2023) 
    • To boost marketing reach & partner growth 
  
