@@ -18,7 +18,10 @@
 
 ### 19. End-end house price predictor app (2024)     
    • Predicts house price based on users’ input 
-   
+
+
+
+   ----------------------------------------------
 ### 19. EaM Service website (2023) 
    • To boost marketing reach & partner growth 
  
