@@ -11,6 +11,7 @@
 ## Projects : 20 as of Dec-2024
 
 - Software Development: 5
+  
                          Django: 2
   
                          Flask: 2
