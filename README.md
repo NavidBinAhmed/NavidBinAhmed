@@ -10,7 +10,10 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projects : 20 as of Dec-2024
 
-- Software Development: 5 (Django: 2, Flask: 2, Streamlit: 1)
+- Software Development: 5
+-                         Django: 2
+-                         Flask: 2
+-                         Streamlit: 1
   
 - Artificial Intelligence & Machine Learning: 8 (CV: 3, NLP: 2)
   
