@@ -20,10 +20,10 @@
   ```
 - Artificial Intelligence & Machine Learning: 8
 ```
-                         Computer Vision: 3
+                          Computer Vision: 3
 
-                         NLP: 2
-  ```
+                          NLP: 2
+```
 - Embedded IoT & Firmware: 5
 
 - Electronics: 2
