@@ -31,6 +31,7 @@ Artificial Intelligence & Machine Learning
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_boston-house-pricing)
 
 .
+
 Software Development
 ### 19. 'Inspekt EaM' service webapp 
    • To boost marketing reach & partner growth 
@@ -42,6 +43,7 @@ Software Development
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_2_EaM-flask)
 
 .
+
 Software Development
 ### 18. Data visualization webapp      
    • **Tools**: Python, Streamlit, HTML, CSS
@@ -51,6 +53,7 @@ Software Development
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_4_data-visual-analytics-streamlit)
 
 .
+
 Software Development
 ### 17. SaaS web app for building flaws detection 
    • **Tools**: Python, Django, PostgresSQL, AWS
@@ -60,6 +63,7 @@ Software Development
    • **Details Demo**: Link is yet to be updated
 
 .
+
 Artificial Intelligence & Machine Learning
 ### 16. Churn predictor for FinTech 
    • **Tools**: CNN, TensorFlow, Keras, Numpy, Pandas, Matplotlib, Python
@@ -69,6 +73,7 @@ Artificial Intelligence & Machine Learning
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/ANN-Based-Churn-Classifier)
 
 .
+
 Artificial Intelligence & Machine Learning
 ### 15. Image classifier full-stack AI app
    • AI recognition from visual images with 62% accuracy
@@ -80,6 +85,7 @@ Artificial Intelligence & Machine Learning
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/Webapp_Deep_Learning_Image_Classifier)
 
 .
+
 Artificial Intelligence & Machine Learning
 ### 14. Credit card default prediction system 
    • **Tools**: Numpy, Pandas, Matplotlib, Scikit-Learn, Python
@@ -89,6 +95,7 @@ Artificial Intelligence & Machine Learning
    • **Details Demo**: Link is yet to be updated
 
 .
+
 Artificial Intelligence & Machine Learning
 ### 13. Gesture recognizer from real-time video feed 
    • AI recognition from visual feeds with 95% accuracy 
@@ -102,6 +109,7 @@ Artificial Intelligence & Machine Learning
    • **Details Demo**: [Link](https://www.linkedin.com/feed/update/urn:li:activity:7027354324783570944/)
 
 .
+
 Software Development
 ### 12. Work Through Eyeblink: a web tool
    • **Tools**: Python, MediaPipe, Camera
@@ -111,6 +119,7 @@ Software Development
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/Work_Through_EyeBlink/tree/main)
 
 .
+
 Artificial Intelligence & Machine Learning
 ### 11. Text language recognizer and reader from images 
    • **Tools**: EasyOCR, Python, RCNN
@@ -120,6 +129,7 @@ Artificial Intelligence & Machine Learning
    • **Details Demo**: Link is yet to be updated
 
 .
+
 Full-Stack AI Software Development
 ### 10. ShiatsuOne: AI remote disease detector 
    • Novel tech designed to serve over 100k people per day
@@ -133,6 +143,7 @@ Full-Stack AI Software Development
    • **Details Demo**: In progress
 
 .  
+
 Artificial Intelligence & Machine Learning
 ### 9. PyThaiNLP-based sentiment analysis system from news content
    • **Tools**: Python, PyThaiNLP
@@ -142,6 +153,7 @@ Artificial Intelligence & Machine Learning
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/NLTK-PyThaiNLP-News-Sentiment-Analysis)
 
 .
+
 Electronics Assembly & Simulation
 ### 8. Drone Development - R&D
    • **Tools**: eCalc
@@ -151,6 +163,7 @@ Electronics Assembly & Simulation
    • **Details Demo**: NA
 
 .
+
 Embedded IoT, Firmware, & Artificial Intelligence
 ### 7. SSV2 AIoT sound-first predictive maintenance system 
    • Led team to develop in 3 weeks with 100% accuracy 
@@ -164,6 +177,7 @@ Embedded IoT, Firmware, & Artificial Intelligence
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/I2S-Sound-based-Predictive-Analytics-System)
 
 .
+
 Software Development
 ### 6. ‘AirOne Guardian’ IoT-based mobile-web app
    • **Tools**: Node.JS, Flutter, IoT
@@ -173,6 +187,7 @@ Software Development
    • **Details Demo**: Link is yet to be updated
 
 .
+
 Electronics
 ### 5. PEMF pain-healing machine
    • **Tools**: Electronics
@@ -182,6 +197,7 @@ Electronics
    • **Details Demo**: [Link](https://bibeat.com/product/electro-health-2/)
 
 .
+
 Embedded IoT & Firmware   
 ### 4. Disease symptoms detector
    • **Tools**: C/C++ Firmware, Embedded IoT
@@ -191,6 +207,7 @@ Embedded IoT & Firmware
    • **Details Demo**: [Link](https://ieeexplore.ieee.org/document/9422520)
 
 .
+
 Embedded IoT & Firmware
 ### 3. Low-cost health monitor
    • **Tools**: C/C++ Firmware, Embedded IoT
@@ -200,6 +217,7 @@ Embedded IoT & Firmware
    • **Details Demo**: [Link](https://ieeexplore.ieee.org/document/9034357)
 
 .
+
 Embedded IoT & Firmware   
 ### 2. Flammable gas detector & alarm
    • **Tools**: C/C++ Firmware, Embedded IoT
@@ -209,11 +227,11 @@ Embedded IoT & Firmware
    • **Details Demo**: [Link](https://journalajst.com/design-and-implementation-microcontroller-based-flammable-gas-detector-and-automatic-alarm-system)
 
 .
+
 Embedded IoT & Firmware
 ### 1. Remote monitoring robot 
    • **Tools**: C/C++ Firmware, Embedded IoT
    
    • **Role, Company (Year)**: Developer (Undergraduate Research Engineer) - solo, Bangladesh Atomic Energy Commission (2016-17)
    
-   • **Details Demo**: Link is yet to be updated
-   
+   • **Details Demo**: Link is yet to be updated   
