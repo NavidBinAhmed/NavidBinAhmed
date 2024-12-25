@@ -8,9 +8,20 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Projects
+## Projects : 20 as of Dec-2024
 
-### 19. End-end house price predictor AI webapp     
+- Software Development: 5
+  
+- Artificial Intelligence & Machine Learning: 8
+  
+- Embedded IoT & Firmware: 5
+
+- Electronics: 2
+  
+ **************************** 
+
+Artificial Intelligence & Machine Learning
+### 20. End-end house price predictor AI webapp     
    • Predicts house price based on users’ input 
    
    • **Tools**: Python, Linear Regression, Sklearn, Flask
@@ -19,7 +30,8 @@
    
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_boston-house-pricing)
 
-   
+
+Software Development
 ### 19. 'Inspekt EaM' service webapp 
    • To boost marketing reach & partner growth 
    
@@ -29,7 +41,8 @@
    
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_2_EaM-flask)
 
- 
+
+Software Development
 ### 18. Data visualization webapp      
    • **Tools**: Python, Streamlit, HTML, CSS
    
@@ -37,7 +50,8 @@
    
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_4_data-visual-analytics-streamlit)
 
-   
+
+Software Development
 ### 17. SaaS web app for building flaws detection 
    • **Tools**: Python, Django, PostgresSQL, AWS
    
@@ -45,7 +59,8 @@
    
    • **Details Demo**: Link is yet to be updated
 
- 
+
+Artificial Intelligence & Machine Learning
 ### 16. Churn predictor for FinTech 
    • **Tools**: CNN, TensorFlow, Keras, Numpy, Pandas, Matplotlib, Python
    
@@ -53,7 +68,8 @@
    
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/ANN-Based-Churn-Classifier)
 
- 
+
+Artificial Intelligence & Machine Learning
 ### 15. Image classifier full-stack AI app
    • AI recognition from visual images with 62% accuracy
    
@@ -64,6 +80,7 @@
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/Webapp_Deep_Learning_Image_Classifier)
 
 
+Artificial Intelligence & Machine Learning
 ### 14. Credit card default prediction system 
    • **Tools**: Numpy, Pandas, Matplotlib, Scikit-Learn, Python
    
@@ -71,7 +88,8 @@
    
    • **Details Demo**: Link is yet to be updated
 
-   
+
+Artificial Intelligence & Machine Learning
 ### 13. Gesture recognizer from real-time video feed 
    • AI recognition from visual feeds with 95% accuracy 
    
@@ -84,6 +102,7 @@
    • **Details Demo**: [Link](https://www.linkedin.com/feed/update/urn:li:activity:7027354324783570944/)
 
 
+Software Development
 ### 12. Work Through Eyeblink: a web tool
    • **Tools**: Python, MediaPipe, Camera
    
@@ -91,7 +110,8 @@
    
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/Work_Through_EyeBlink/tree/main)
 
-   
+
+Artificial Intelligence & Machine Learning
 ### 11. Text language recognizer and reader from images 
    • **Tools**: EasyOCR, Python, RCNN
    
@@ -99,7 +119,8 @@
    
    • **Details Demo**: Link is yet to be updated
 
-   
+
+Full-Stack AI Software Development
 ### 10. ShiatsuOne: AI remote disease detector 
    • Novel tech designed to serve over 100k people per day
    
@@ -110,8 +131,9 @@
    • **Role, Company (Year)**: Lead Developer & innovator - in team, NA (Innovation 2022-)
    
    • **Details Demo**: In progress
+
    
- 
+Artificial Intelligence & Machine Learning
 ### 9. PyThaiNLP-based sentiment analysis system from news content
    • **Tools**: Python, PyThaiNLP
    
@@ -119,7 +141,8 @@
    
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/NLTK-PyThaiNLP-News-Sentiment-Analysis)
 
-   
+
+Electronics Assembly & Simulation
 ### 8. Drone Development - R&D
    • **Tools**: eCalc
    
@@ -127,7 +150,8 @@
    
    • **Details Demo**: NA
 
-   
+
+Embedded IoT, Firmware, & Artificial Intelligence
 ### 7. SSV2 AIoT sound-first predictive maintenance system 
    • Led team to develop in 3 weeks with 100% accuracy 
    
@@ -140,6 +164,7 @@
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/I2S-Sound-based-Predictive-Analytics-System)
 
 
+Software Development
 ### 6. ‘AirOne Guardian’ IoT-based mobile-web app
    • **Tools**: Node.JS, Flutter, IoT
    
@@ -148,6 +173,7 @@
    • **Details Demo**: Link is yet to be updated
 
 
+Electronics
 ### 5. PEMF pain-healing machine
    • **Tools**: Electronics
    
@@ -155,7 +181,8 @@
    
    • **Details Demo**: [Link](https://bibeat.com/product/electro-health-2/)
 
-   
+
+Embedded IoT & Firmware   
 ### 4. Disease symptoms detector
    • **Tools**: C/C++ Firmware, Embedded IoT
    
@@ -163,7 +190,8 @@
    
    • **Details Demo**: [Link](https://ieeexplore.ieee.org/document/9422520)
 
-   
+
+Embedded IoT & Firmware
 ### 3. Low-cost health monitor
    • **Tools**: C/C++ Firmware, Embedded IoT
    
@@ -171,7 +199,8 @@
    
    • **Details Demo**: [Link](https://ieeexplore.ieee.org/document/9034357)
 
-   
+
+Embedded IoT & Firmware   
 ### 2. Flammable gas detector & alarm
    • **Tools**: C/C++ Firmware, Embedded IoT
    
@@ -179,10 +208,12 @@
    
    • **Details Demo**: [Link](https://journalajst.com/design-and-implementation-microcontroller-based-flammable-gas-detector-and-automatic-alarm-system)
 
-  
+
+Embedded IoT & Firmware
 ### 1. Remote monitoring robot 
    • **Tools**: C/C++ Firmware, Embedded IoT
    
    • **Role, Company (Year)**: Developer (Undergraduate Research Engineer) - solo, Bangladesh Atomic Energy Commission (2016-17)
    
    • **Details Demo**: Link is yet to be updated
+   
