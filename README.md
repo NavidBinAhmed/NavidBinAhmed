@@ -2,9 +2,9 @@
 
 👨‍💻 Experiences: **Full-Stack Machine Learning** Engineering + **Software Development** Engineering + IoT Research & Development with 20 projects delivered
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,ai,javascript,aws&theme=light)](https://skillicons.dev)
-
 📫 My [**LinkedIn**](https://linkedin.com/in/navidbinahmed) and personal [**website**](https://navidbinahmed.com)
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,ai,javascript,aws&theme=light)](https://skillicons.dev)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
