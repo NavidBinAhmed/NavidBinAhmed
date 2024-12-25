@@ -11,19 +11,19 @@
 ## Projects : 20 as of Dec-2024
 
 - Software Development: 5
-  
+  ```
                          Django: 2
   
                          Flask: 2
   
                          Streamlit: 1
-  
+  ```
 - Artificial Intelligence & Machine Learning: 8
-
+```
                          Computer Vision: 3
 
-                         NLP:
-  
+                         NLP: 2
+  ```
 - Embedded IoT & Firmware: 5
 
 - Electronics: 2
