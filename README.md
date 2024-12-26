@@ -9,7 +9,7 @@
 🏆 Ranked by AD Scientific Index among Asia’s top 65% of scientists (since 2023) || Named by UPG Geneva as a Global Sustainability Leader for the contnuous commitment towards technology 
 research, innovation, and collaboration || Winner in the 2023 global campaign for ShiatsuOne – AIoT innovation || Technovation and Beautiful Life Championship - dual awardee at the SDG Open Hack! Bangkok 2022 || Featured by 60+ news media and tech organisations worldwide (as of Dec-2024) 
 
-👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and companies.
+👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and companies
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projects : 21 as of Dec-2024
