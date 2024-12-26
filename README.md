@@ -12,7 +12,7 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and companies
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Projects : 21 as of Dec-2024
+## Projects : 21, as of Dec-2024
 
 - **Software Development: 5**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1)
   
@@ -90,7 +90,7 @@ Artificial Intelligence & Machine Learning (Computer Vision)
    
    • **Tools**: ResNet50, HTML, CSS, JS, Python, Flask, GitHub, Docker
    
-   • **Role, Company (Year)**: Developer - solo, NA (2022)
+   • **Role, Company (Year)**: Developer - solo, SELICE Digital Bangladesh (2022)
    
    • **Code Repo**: [Link](https://github.com/NavidBinAhmed/Webapp_Deep_Learning_Image_Classifier)
 
