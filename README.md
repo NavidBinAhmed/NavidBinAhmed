@@ -10,9 +10,9 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projects : 21 as of Dec-2024
 
-- Software Development: 5   (Django: 2  ,  Flask: 2  ,  Streamlit: 1)
+- **Software Development: 5**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1)
   
-- Artificial Intelligence & Machine Learning: 8   (Computer Vision: 3  ,  NLP: 2)
+- **Artificial Intelligence & Machine Learning: 8**   (Computer Vision: 3  ,  NLP: 2)
 
 - Embedded IoT & Firmware: 6
 
@@ -268,7 +268,7 @@ Embedded IoT & Firmware
 .
 
 Embedded IoT & Firmware
-### 1. Remote monitoring robot using DHT11 and RC-array sensors
+### 1. Remote monitoring robot using Pololu QTR RC sensor array, 433 MHz RF modules and DHT11 Sensor
    • Development of a remote ambient temperature and humidity monitoring robot for nuclear applications
    
    • **Tools**: C/C++ Firmware, Embedded IoT
