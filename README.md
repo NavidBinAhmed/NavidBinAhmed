@@ -13,9 +13,9 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Projects : 21, as of Dec-2024
+## Projects : 22, as of Dec-2024
 
-- **Software Development: 5**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1)
+- **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Express.JS: 1)
   
 - **Artificial Intelligence & Machine Learning: 8**   (Computer Vision: 3  ,  NLP: 2)
 
@@ -25,8 +25,9 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
   
  **************************** 
 
+
 Artificial Intelligence & Machine Learning
-### 21. End-end house price predictor AI webapp using Linear Regression, Flask and Render     
+### 22. End-end house price predictor AI webapp using Linear Regression, Flask and Render     
    • Predicts house price based on users’ input 
    
    • **Tools**: Python, Linear Regression, Sklearn, Flask, Render
@@ -34,6 +35,18 @@ Artificial Intelligence & Machine Learning
    • **Role, Company (Year)**: Developer - solo, NA (2024) 
    
    • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_boston-house-pricing)
+
+.
+
+Software Development
+### 21. Flight path tracker web API using JavaScript     
+   • Tracks and determines a passenger's flight path from unordered pair(s) of flight records
+   
+   • **Tools**: Express JavaScript, Json, HTML, API, Postman
+   
+   • **Role, Company (Year)**: Developer - solo, VolumeFI USA (2024) 
+   
+   • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_flight-path-tracker-javascript)
 
 .
 
