@@ -220,6 +220,7 @@ Electronics
    • **Details Demo**: [Link](https://bibeat.com/product/electro-health-2/)
 
 .
+
 Embedded IoT & Firmware   
 ### 5. Remote heartbeat rate and ambient temperature and humidity monitor using HC05 Bluetooth module
    • Development of remote monitoring system for heart-beat rate and ambient environmental parameters 
