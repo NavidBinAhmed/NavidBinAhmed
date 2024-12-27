@@ -11,7 +11,9 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 
 👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and companies
 
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projects : 21, as of Dec-2024
 
