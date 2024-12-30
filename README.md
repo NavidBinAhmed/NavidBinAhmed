@@ -75,14 +75,14 @@ Software Development
 .
 
 Software Development
-### 18. End-end full-stack SaaS webapp for building flaws detection using Django, AWS and PostgresSQL
+### 18. End-end full-stack SaaS webapp for building flaws detection using Django, PostgresSQL, and AWS
    • In-house system to provide scalable AI services to global clients 
    
    • **Tools**: Python, Django, PostgresSQL, AWS
    
    • **Role, Company (Year)**: Associate Developer- in team, InspektAI LLC Ltd., USA (2023) 
    
-   • **Code Repo**: Restriced, demo can be found here [Link](https://dashboardui.inspektai.com/)
+   • **Code Repo**: Restriced v1 and v2, demo can be found here [Link](https://dashboardui.inspektai.com/)
 
 .
 
