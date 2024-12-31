@@ -33,7 +33,7 @@ Artificial Intelligence & Machine Learning
    
    • **Role, Company (Year)**: Developer - solo, NA (2024) 
    
-   • **Details Demo**: [Link](https://github.com/Navi.../agentic_ai_using_groq_phidata_API))
+   • **Details Demo**: [Link](https://github.com/Navi.../agentic_ai_using_groq_phidata_API)
 
 .
 
