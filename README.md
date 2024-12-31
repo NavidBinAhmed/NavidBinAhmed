@@ -13,11 +13,11 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Projects : 22, as of Dec-2024
+## Projects : 23, as of Dec-2024
 
 - **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Express.JS: 1)
   
-- **Artificial Intelligence & Machine Learning: 8**   (Computer Vision: 3  ,  NLP: 2)
+- **Artificial Intelligence & Machine Learning: 9**   (Computer Vision: 3  ,  NLP: 2 , Agentic AI: 1)
 
 - Embedded IoT & Firmware: 6
 
@@ -25,6 +25,17 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
   
  **************************** 
 
+Artificial Intelligence & Machine Learning
+### 23. Agentic AI using Groq, OpenAI, and Phidata API     
+   • Two AI agents assess financial status and latest news to combinely recommend the best stock to buy. 
+   
+   • **Tools**: Python, Groq, OpenAI, Phidata, YFinance
+   
+   • **Role, Company (Year)**: Developer - solo, NA (2024) 
+   
+   • **Details Demo**: [Link](https://github.com/Navi.../agentic_ai_using_groq_phidata_API))
+
+.
 
 Artificial Intelligence & Machine Learning
 ### 22. End-end house price predictor AI webapp using Linear Regression, Flask and Render     
