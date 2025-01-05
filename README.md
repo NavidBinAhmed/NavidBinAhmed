@@ -1,4 +1,4 @@
-# Full-Stack AI Engineer & Data Scientist
+# Full-Stack ML Engineer & Data Scientist
 
 👋 **Python developer** from Bangladesh - **Python for AI use cases and Django-based web development to add substantial business values**
 
