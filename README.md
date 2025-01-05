@@ -43,8 +43,7 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## ![image](https://github.com/user-attachments/assets/8b2562c8-ca0e-49d1-ac89-87f02fe34758)
-Projects : 23, as of Dec-2024
+## 🤝 Projects : 23, as of Dec-2024
 
 - **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Express.JS: 1)
   
