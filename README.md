@@ -1,6 +1,6 @@
-# Navid Bin Ahmed, Full-Stack ML Engineer & Data Scientist
+# Navid Bin Ahmed, Full-Stack Engineer & Data Scientist
 
-👋 **Core Python developer** from Bangladesh - **Python for AI use cases and Django-based web development to add substantial business values**
+👋 **Python developer** from Bangladesh - **Python for AI use cases and Django-based web development to add substantial business values**
 
 👨‍💻 Experiences: **Full-Stack Machine Learning** Engineering + **Software Development** Engineering + IoT Research & Development with 23 projects delivered
 
