@@ -35,7 +35,7 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidbinahmed&show_icons=true&locale=en&layout=compact" alt="navidbinahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navidbinahmed&show_icons=true&locale=en" alt="navidbinahmed" /></p>
+# <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navidbinahmed&show_icons=true&locale=en" alt="navidbinahmed" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navidbinahmed&" alt="navidbinahmed" /></p>
 
