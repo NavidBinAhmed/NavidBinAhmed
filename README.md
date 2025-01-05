@@ -31,7 +31,9 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 <a href="https://leetcode.com/u/navidbinahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/navidbinahmed/" height="30" width="40" /></a>
 </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navidbinahmed" alt="navidbinahmed" /></a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidbinahmed&show_icons=true&locale=en&layout=compact" alt="navidbinahmed" /></p>
 
@@ -40,7 +42,7 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navidbinahmed&" alt="navidbinahmed" /></p>
 
 
-[![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed)
+[![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed) since 2025
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
