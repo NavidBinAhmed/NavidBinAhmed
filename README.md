@@ -327,7 +327,7 @@ Embedded IoT & Firmware
 .
 
 Embedded IoT & Firmware
-### 1. Remote monitoring robot using Pololu QTR RC sensor array, 433 MHz RF modules and DHT11 Sensor
+### 1. Remote monitoring robot using Pololu QTR RC sensor array, 433 MHz RF Modules and DHT11 Sensor
    • Development of a remote ambient temperature and humidity monitoring robot for nuclear applications
    
    • **Tools**: C/C++ Firmware, Embedded IoT
