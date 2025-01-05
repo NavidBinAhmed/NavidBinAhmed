@@ -4,8 +4,6 @@
 
 👨‍💻 Experiences: **Full-Stack Machine Learning** Engineering + **Software Development** Engineering + IoT Research & Development with 21 projects delivered
 
-📫 My [**LinkedIn**](https://linkedin.com/in/navidbinahmed) and personal [**website**](https://navidbinahmed.com)
-
 [![My Skills](https://skillicons.dev/icons?i=python,django,ai,javascript,aws&theme=light)](https://skillicons.dev)
 
 🏆 Ranked by AD Scientific Index among Asia’s top 65% of scientists (since 2023) || Named by UPG Geneva as a Global Sustainability Leader for the contnuous commitment towards technology 
@@ -13,12 +11,9 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 
 👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and companies
 
+📫 [**LinkedIn**](https://linkedin.com/in/navidbinahmed) and personal [**website**](https://navidbinahmed.com)
 
   [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed)
-
-  [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat)](http://hits.dwyl.com/navidbinahmed/navidbinahmed)
-
-  [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat&show=unique)](http://hits.dwyl.com/navidbinahmed/navidbinahmed)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projects : 23, as of Dec-2024
