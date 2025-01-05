@@ -24,7 +24,7 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 
 👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and companies
 
-📫Connect with me:
+📫Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/navidbinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navidbinahmed" height="30" width="40" /></a>
 <a href="https://medium.com/@navidbinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@navidbinahmed" height="30" width="40" /></a>
@@ -35,7 +35,7 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidbinahmed&show_icons=true&locale=en&layout=compact" alt="navidbinahmed" /></p>
 
-# <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navidbinahmed&show_icons=true&locale=en" alt="navidbinahmed" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navidbinahmed&show_icons=true&locale=en" alt="navidbinahmed" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navidbinahmed&" alt="navidbinahmed" /></p>
 
@@ -43,7 +43,8 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Projects : 23, as of Dec-2024
+## ![image](https://github.com/user-attachments/assets/8b2562c8-ca0e-49d1-ac89-87f02fe34758)
+Projects : 23, as of Dec-2024
 
 - **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Express.JS: 1)
   
