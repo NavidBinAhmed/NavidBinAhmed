@@ -15,6 +15,9 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 
   [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed)
 
+  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=navidbinahmedlimit=5&theme=flat&combine_all_yearly_contributions=true)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projects : 23, as of Dec-2024
 
