@@ -1,6 +1,6 @@
-# Full-Stack ML Engineer & Data Scientist
+# Navid Bin Ahmed, Full-Stack ML Engineer & Data Scientist
 
-👋 **Python developer** from Bangladesh - **Python for AI use cases and Django-based web development to add substantial business values**
+👋 **Core Python developer** from Bangladesh - **Python for AI use cases and Django-based web development to add substantial business values**
 
 👨‍💻 Experiences: **Full-Stack Machine Learning** Engineering + **Software Development** Engineering + IoT Research & Development with 21 projects delivered
 
@@ -41,6 +41,7 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 
 
 [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤝 Projects : 23, as of Dec-2024
