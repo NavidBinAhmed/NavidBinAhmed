@@ -15,10 +15,9 @@ research, innovation, and collaboration || Winner in the UPG's 2023 global campa
 
 📫 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/navidbinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navidbinahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/navidbinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navidbinahmed" height="30" width="40" /></a>
 <a href="https://medium.com/@navidbinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@navidbinahmed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/navidbinahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/navidbinahmed/" height="30" width="40" /></a>
-<a href="https://navidbinahmed.com" target="blank"/></a>
+<a href="https://leetcode.com/u/navidbinahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/navidbinahmed/" height="30" width="40" /></a>
 </p> 
 
 [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed)
