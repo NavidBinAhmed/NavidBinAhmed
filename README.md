@@ -19,8 +19,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
 
-🏆 Ranked by AD Scientific Index among Asia’s top 65% of scientists (since 2023) || Named by UPG Geneva as a Global Sustainability Leader for the contnuous commitment towards technology 
-research, innovation, and collaboration || Winner in the UPG's 2023 global campaign from South Asia Region || Technovation and Beautiful Life Championship - dual awardee at the SDG Open Hack! Bangkok 2022 || Featured by 65+ news media and tech organisations worldwide (as of Dec-2024) 
+🏆 Ranked by AD Scientific Index among Asia’s top 65% of [scientists](https://www.adscientificindex.com/scientist/navid-bin-ahmed/4754194) (since 2023) || Named by UPG Geneva as a Global Sustainability Leader for the contnuous commitment towards technology research, innovation, and [collaboration](https://iub.ac.bd/news-and-events/news-and-media-archive/2022-February/64bcc37d1ed3686b1f2cb1a9) || Winner in the UPG's 2023 global campaign from South Asia [Region](https://www.dhakatribune.com/bangladesh/education/342648/iub-alumnus-navid-wins-global-recognition-as-upg) || Technovation and Beautiful Life Championship - dual awardee at the SDG Open Hack! Bangkok 2022 for ShiatsuOne- AI innovation in [healthcare](https://www.thedailystar.net/business/organisation-news/press-releases/news/detection-covid-ex-iub-student-led-team-wins-award-thailand-3065046) || Featured by 65+ news media and tech organisations worldwide (as of Dec-2024) 
 
 👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and companies
 
