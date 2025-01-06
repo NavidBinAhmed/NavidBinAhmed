@@ -43,7 +43,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤝 Projects : 23, as of Dec-2024
 
-- **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Express.JS: 1)
+- **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Node.JS: 1)
   
 - **Artificial Intelligence & Machine Learning: 9**   (Computer Vision: 3  ,  NLP: 2 , Agentic AI: 1)
 
@@ -81,7 +81,7 @@ Software Development
 ### 21. Flight path tracker web API using JavaScript     
    • Tracks and determines a passenger's flight path from unordered pair(s) of flight records
    
-   • **Tools**: Express JavaScript, Json, HTML, API, Postman
+   • **Tools**: Node JavaScript, Express JavaScript, Json, HTML, API, Postman
    
    • **Role, Company (Year)**: Developer - solo, VolumeFI USA (2024) 
    
