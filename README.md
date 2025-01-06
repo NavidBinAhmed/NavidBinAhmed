@@ -69,7 +69,7 @@ Artificial Intelligence & Machine Learning
 ### 22. End-end house price predictor AI webapp using Linear Regression, Flask and Render     
    • Predicts house price based on users’ input 
    
-   • **Tools**: Python, Linear Regression, Sklearn, Flask, Render
+   • **Tools**: Python, Linear Regression, Sklearn, Flask, RESTful API, Render
    
    • **Role, Company (Year)**: Developer - solo, NA (2024) 
    
@@ -81,7 +81,7 @@ Software Development
 ### 21. Flight path tracker web API using JavaScript     
    • Tracks and determines a passenger's flight path from unordered pair(s) of flight records
    
-   • **Tools**: Node JavaScript, Express JavaScript, Json, HTML, API, Postman
+   • **Tools**: Node JavaScript, Express JavaScript, Json, HTML, RESTful API, Postman
    
    • **Role, Company (Year)**: Developer - solo, VolumeFI USA (2024) 
    
