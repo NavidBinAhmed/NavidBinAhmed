@@ -23,13 +23,13 @@
 
 👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and companies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navidbinahmed" alt="navidbinahmed" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavidBinAhmed" alt="NavidBinAhmed" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidbinahmed&show_icons=true&locale=en&layout=compact" alt="navidbinahmed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NavidBinAhmed&show_icons=true&locale=en&layout=compact" alt="NavidBinAhmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navidbinahmed&show_icons=true&locale=en" alt="navidbinahmed" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NavidBinAhmed&show_icons=true&locale=en" alt="NavidBinAhmed" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navidbinahmed&" alt="navidbinahmed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=NavidBinAhmed&" alt="NavidBinAhmed" /></p>
 
 📫Connect with me
 <p align="left">
