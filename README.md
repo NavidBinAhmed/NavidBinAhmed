@@ -1,8 +1,8 @@
 # Full-Stack AI Software Engineer
 
-👋 **Python developer** from Bangladesh - **Python for AI use cases and Django-based web development to add substantial business values**
+👋 **Passionate Data Scientist** from Bangladesh specializing in Python development - **Python for AI use cases and Django-based web development** to add substantial business values
 
-👨‍💻 Experiences: **Full-Stack Machine Learning** Engineering + **Software Development** Engineering + IoT Research & Development with 23 projects delivered
+👨‍💻 Experiences: **Machine Learning** Engineering + **Full-Stack Software Development** Engineering + IoT Research & Development with 23 projects delivered
 
 
 <p align="left"> 
