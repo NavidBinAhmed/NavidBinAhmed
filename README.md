@@ -82,7 +82,7 @@ Software Development
 ### 21. Flight path tracker web API using JavaScript     
    • Tracks and determines a passenger's flight path from unordered pair(s) of flight records
    
-   • **Tools**: Node JavaScript, Express JavaScript, Json, HTML, RESTful API, Postman
+   • **Tools**: Node.JS (Express), Json, HTML, RESTful API, Postman
    
    • **Role, Company (Year)**: Developer - solo, VolumeFI USA (2024) 
    
