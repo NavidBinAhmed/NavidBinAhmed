@@ -79,7 +79,7 @@ Artificial Intelligence & Machine Learning
 .
 
 Software Development
-### 21. Flight path tracker microservice web API using Node.JS (Express)     
+### 21. Flight path tracker microservice API using Node.JS (Express)     
    • Tracks and determines a passenger's flight path from unordered pair(s) of flight records
    
    • **Tools**: Node.JS (Express), Json, HTML, RESTful API, Postman
