@@ -2,7 +2,7 @@
 
 👋 **Passionate Data Scientist** from Bangladesh specializing in Python development - **Python for AI use cases and Django-based web development** to add substantial business values
 
-👨‍💻 Experiences: **Machine Learning** Engineering + **Full-Stack Software Development** Engineering + IoT Research & Development with 23 projects delivered
+👨‍💻 Experiences: **Machine Learning** Engineering + **Full-Stack Software Development** Engineering + IoT Research & Development with 24 projects delivered
 
 
 <p align="left"> 
@@ -42,17 +42,29 @@
 [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed) since 2025
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 🤝 Projects : 23, as of Dec-2024
+## 🤝 Projects : 24, as of Jan-2025
 
 - **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Node.JS: 1)
   
-- **Artificial Intelligence & Machine Learning: 9**   (Computer Vision: 3  ,  NLP: 2 , Agentic AI: 1)
+- **Artificial Intelligence & Machine Learning: 10**   (Computer Vision: 3  ,  NLP: 2 , Agentic AI: 1)
 
 - Embedded IoT & Firmware: 6
 
 - Electronics: 2
   
  **************************** 
+
+Artificial Intelligence & Machine Learning
+### 24. End-end Breast Cancer Predictor API using Machine Learning and Render    
+   • Predicts either malignant (1) or benign (0) based on user input on specific parameters 
+   
+   • **Tools**: Python, Machine Learning, Render
+   
+   • **Role, Company (Year)**: Developer - Dual, NA (2025) 
+   
+   • **Details Demo**: [Link](https://github.com/NavidBinAhmed/bc_detection)
+
+.
 
 Artificial Intelligence & Machine Learning
 ### 23. Agentic AI using Groq, OpenAI, and Phidata API     
