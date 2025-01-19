@@ -67,7 +67,7 @@ Artificial Intelligence & Machine Learning
    
    • **Role, Company (Year)**: Developer - Dual, NA (2025) 
    
-   • **Details Demo**: [Link](https://github.com/NavidBinAhmed/bc_detection)
+   • **Details Demo**: [**GitHub**](https://github.com/NavidBinAhmed/bc_detection) | [**Live**](http://bcp-zxj6.onrender.com/)
 
 .
 
@@ -79,7 +79,7 @@ Artificial Intelligence & Machine Learning
    
    • **Role, Company (Year)**: Developer - solo, NA (2024) 
    
-   • **Details Demo**: [Link](https://github.com/NavidBinAhmed/agentic_ai_using_groq_openai_phidata_API)
+   • **Details Demo**: [**GitHub**](https://github.com/NavidBinAhmed/agentic_ai_using_groq_openai_phidata_API)
 
 .
 
@@ -91,7 +91,7 @@ Artificial Intelligence & Machine Learning
    
    • **Role, Company (Year)**: Developer - solo, NA (2024) 
    
-   • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_boston-house-pricing)
+   • **Details Demo**: [**GitHub**](https://github.com/NavidBinAhmed/webapp_boston-house-pricing) | [**Live**](https://housepriceprediction-tqf3.onrender.com/)
 
 .
 
@@ -103,7 +103,7 @@ Software Development
    
    • **Role, Company (Year)**: Developer - solo, VolumeFI USA (2024) 
    
-   • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_flight-path-tracker-javascript)
+   • **Details Demo**: [**GitHub**](https://github.com/NavidBinAhmed/webapp_flight-path-tracker-javascript)
 
 .
 
@@ -115,7 +115,7 @@ Software Development
    
    • **Role, Company (Year)**: Developer - in team, InspektAI LLC Ltd. USA (2023) 
    
-   • **Details Demo**: [Link](https://github.com/NavidBinAhmed/webapp_2_EaM-flask)
+   • **Details Demo**: [**GitHub**](https://github.com/NavidBinAhmed/webapp_2_EaM-flask)
 
 .
 
@@ -127,7 +127,7 @@ Software Development
    
    • **Role, Company (Year)**: Developer - in team, InspektAI LLC Ltd. USA (2023) 
    
-   • **Code Repo**: [Link](https://github.com/NavidBinAhmed/webapp_4_data-visual-analytics-streamlit)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/webapp_4_data-visual-analytics-streamlit)
 
 .
 
@@ -139,7 +139,7 @@ Software Development
    
    • **Role, Company (Year)**: Associate Developer- in team, InspektAI LLC Ltd., USA (2023) 
    
-   • **Code Repo**: Restriced v1 and v2, demo can be found here [Link](https://dashboardui.inspektai.com/)
+   • **Code Repo**: Restriced v1 and v2, demo can be found here [**Link**](https://dashboardui.inspektai.com/)
 
 .
 
@@ -151,7 +151,7 @@ Artificial Intelligence & Machine Learning
    
    • **Role, Company (Year)**: Developer - solo, NA (2023) 
    
-   • **Code Repo**: [Link](https://github.com/NavidBinAhmed/ANN-Based-Churn-Classifier)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/ANN-Based-Churn-Classifier)
 
 .
 
@@ -163,7 +163,7 @@ Artificial Intelligence & Machine Learning (Computer Vision)
    
    • **Role, Company (Year)**: Developer - solo, SELICE Digital Bangladesh (2022)
    
-   • **Code Repo**: [Link](https://github.com/NavidBinAhmed/Webapp_Deep_Learning_Image_Classifier)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/Webapp_Deep_Learning_Image_Classifier)
 
 .
 
@@ -189,7 +189,7 @@ Artificial Intelligence & Machine Learning (Computer Vision)
    
    • **Role, Company (Year)**: Developer - solo, NA (2023)
    
-   • **Demo**: Code will be updated, Demo [Link](https://www.linkedin.com/feed/update/urn:li:activity:7027354324783570944/)
+   • **Demo**: Code will be updated, Demo [**Link**](https://www.linkedin.com/feed/update/urn:li:activity:7027354324783570944/)
 
 .
 
@@ -201,7 +201,7 @@ Software Development
    
    • **Role, Client**: Developer - solo, NA 
    
-   • **Code Repo**: [Link](https://github.com/NavidBinAhmed/Work_Through_EyeBlink)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/Work_Through_EyeBlink)
 
 .
 
@@ -239,7 +239,7 @@ Artificial Intelligence & Machine Learning (NLP)
    
    • **Role, Company (Year)**: Developer - solo, AIGen Thai (2022)
    
-   • **Code Repo**: [Link](https://github.com/NavidBinAhmed/NLTK-PyThaiNLP-News-Sentiment-Analysis)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/NLTK-PyThaiNLP-News-Sentiment-Analysis)
 
 .
 
@@ -263,7 +263,7 @@ Embedded IoT, Firmware, & Artificial Intelligence (Computer Vision- Audio)
    
    • **Role, Company (Year)**: Lead Developer - in team, GroundUP AI Pte Ltd. Singapore (2021) 
    
-   • **Code Repo & Details Demo**: Code is restricted, Can be read from the News [Link](https://www.theedgesingapore.com/digitaledge/technopreneurs/how-machine-doctor-groundupai-uses-sounds-industrial-predictive)
+   • **Code Repo & Details Demo**: Code is restricted, Can be read from the News [**Link**](https://www.theedgesingapore.com/digitaledge/technopreneurs/how-machine-doctor-groundupai-uses-sounds-industrial-predictive)
 
 .
 
@@ -287,7 +287,7 @@ Electronics
    
    • **Role, Company (Year)**: Research Fellow - in team, DU-BiBEAT Ltd. Bangladesh (2019) 
    
-   • **Details Demo**: [Link](https://bibeat.com/product/electro-health-2/)
+   • **Details Demo**: [**Link**](https://bibeat.com/product/electro-health-2/)
 
 .
 
@@ -301,7 +301,7 @@ Embedded IoT & Firmware
    
    • **Role, Company (Year)**: Research Fellow - in team, DU-BiBEAT Ltd. Bangladesh (2019) 
    
-   • **Code Repo**: [Link](https://github.com/NavidBinAhmed/Remote-Heartbeat-Rate-and-Ambient-Temperature-and-Humidity-Monitor-Using-BlueTooth)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/Remote-Heartbeat-Rate-and-Ambient-Temperature-and-Humidity-Monitor-Using-BlueTooth)
 
 .
 
@@ -315,7 +315,7 @@ Embedded IoT & Firmware
    
    • **Role, Company (Year)**: Research Fellow - in team, DU-BiBEAT Ltd. Bangladesh (2019) 
    
-   • **Code Repo**: [Link](https://github.com/NavidBinAhmed/Pulse_Blood-Oxygen-Saturation-Monitor_to_Help_Detect_Covid)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/Pulse_Blood-Oxygen-Saturation-Monitor_to_Help_Detect_Covid)
 
 .
 
@@ -327,7 +327,7 @@ Embedded IoT & Firmware
    
    • **Role, Company (Year)**: Developer (Graduate RA) - solo, IUB Bangladesh (2018) 
    
-   • **Code Repo**: [Link](https://github.com/NavidBinAhmed/Heartbeat-Pulse-Rate-Monitor)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/Heartbeat-Pulse-Rate-Monitor)
 
 .
 
@@ -339,7 +339,7 @@ Embedded IoT & Firmware
    
    • **Role, Company (Year)**: Developer (Undergraduate Research Engineer) - solo, Bangladesh Atomic Energy Commission (2017)
    
-   • **Code Repo**: [Link](https://github.com/NavidBinAhmed/Toxic-Flammable-Gas-Detector-and-Alarm)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/Toxic-Flammable-Gas-Detector-and-Alarm)
 
 .
 
