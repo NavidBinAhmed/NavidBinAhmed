@@ -51,6 +51,10 @@
 - Embedded IoT & Firmware: 6
 
 - Electronics: 2
+
+
+    - **Future ideas:** Expanding as full-stack websites integrating advanced user interfaces by using ParticleJS, VanilaJS and Database
+
   
  **************************** 
 
