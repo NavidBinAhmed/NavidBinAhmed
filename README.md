@@ -351,4 +351,4 @@ Embedded IoT & Firmware
    
    • **Role, Company (Year)**: Developer (Undergraduate Research Engineer) - solo, Bangladesh Atomic Energy Commission (2016-17)
    
-   • **Code Repo**: [Link](https://github.com/NavidBinAhmed/Autonomous_Robot_For_Remote_Information_Monitoring/)   
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/Autonomous_Robot_For_Remote_Information_Monitoring/)   
