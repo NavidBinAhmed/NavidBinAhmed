@@ -53,7 +53,7 @@
 - Electronics: 2
 
 
-    - **Future ideas:** Expanding as full-stack websites integrating advanced user interfaces by using ParticleJS, VanilaJS and Database
+    - **Future ideas:** Expanding as full-stack websites integrating advanced user interfaces by using ParticleJS, VanilaJS and Database [pranay](https://github.com/bomma-Pranay/)
 
   
  **************************** 
