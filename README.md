@@ -53,7 +53,7 @@
 - Electronics: 2
 
 - **Future ideas:**
-    - Expanding as full-stack websites integrating advanced user interfaces by using ParticleJS, VanilaJS and Database [pranay](https://github.com/bomma-Pranay/)
+    - Expanding as full-stack products integrating advanced user interfaces by using ParticleJS, VanilaJS, Extended CSS, and Databases [pranay](https://github.com/bomma-Pranay/)
     - Automate the end-end process using Github Action to collect data using real time API, retrain model, and complete deployment
 
   
