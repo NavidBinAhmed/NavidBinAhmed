@@ -63,7 +63,7 @@ Artificial Intelligence & Machine Learning
 ### 24. End-end Breast Cancer Predictor API using Machine Learning and Render    
    • Predicts either malignant (1) or benign (0) based on user input on specific parameters 
    
-   • **Tools**: Python, Machine Learning, Render
+   • **Tools**: Python, ParticleJS, ThreeJS, Machine Learning, Render
    
    • **Role, Company (Year)**: Developer - Dual, NA (2025) 
    
