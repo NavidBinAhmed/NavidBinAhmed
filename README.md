@@ -132,7 +132,7 @@ Software Development
 .
 
 Software Development
-### 18. End-end full-stack SaaS webapp for building flaws detection using Django, PostgresSQL, and AWS
+### 18. End-end full-stack SaaS webapp (dashboard) for building flaws detection using Django, PostgresSQL, and AWS
    • In-house system to provide scalable AI services to global clients 
    
    • **Tools**: Python, Django, PostgresSQL, AWS
