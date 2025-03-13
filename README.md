@@ -61,7 +61,7 @@
  **************************** 
 
 Artificial Intelligence & Machine Learning
-### 24. End-end Breast Cancer Predictor API using Machine Learning and Render    
+### 25. End-end Breast Cancer Predictor API using Machine Learning and Render    
    • Predicts either malignant (1) or benign (0) based on user input on specific parameters 
    
    • **Tools**: Python, ParticleJS, ThreeJS, Machine Learning, Render
@@ -73,7 +73,7 @@ Artificial Intelligence & Machine Learning
 .
 
 Artificial Intelligence & Machine Learning
-### 23. Agentic AI using Groq, OpenAI, and Phidata API     
+### 24. Agentic AI using Groq, OpenAI, and Phidata API     
    • Two AI agents assess financial status and latest news to combinely recommend the best stock to buy. 
    
    • **Tools**: Python, Groq, OpenAI, Phidata, YFinance
@@ -85,7 +85,7 @@ Artificial Intelligence & Machine Learning
 .
 
 Artificial Intelligence & Machine Learning
-### 22. End-end house price predictor AI webapp using Linear Regression, Flask and Render     
+### 23. End-end house price predictor AI webapp using Linear Regression, Flask and Render     
    • Predicts house price based on users’ input 
    
    • **Tools**: Python, Linear Regression, Sklearn, Flask, RESTful API, Render
@@ -97,7 +97,7 @@ Artificial Intelligence & Machine Learning
 .
 
 Software Development
-### 21. Flight path tracker microservice API using Node.JS (Express)     
+### 22. Flight path tracker microservice API using Node.JS (Express)     
    • Tracks and determines a passenger's flight path from unordered pair(s) of flight records
    
    • **Tools**: Node.JS (Express), Json, HTML, RESTful API, Postman
@@ -109,7 +109,7 @@ Software Development
 .
 
 Software Development
-### 20. End-end 'Inspekt EaM' service webapp using Flask and Render
+### 21. End-end 'Inspekt EaM' service webapp using Flask and Render
    • 'Engineering as Marketing' webapp to help boost company's marketing reach & partner growth 
    
    • **Tools**: Python, Flask, HTML, CSS, JavaScript, Render
@@ -121,7 +121,7 @@ Software Development
 .
 
 Software Development
-### 19. Data visualization webapp using Streamlit      
+### 20. Data visualization webapp using Streamlit      
    • Analyzes historical data based on users' input for decision making
    
    • **Tools**: Python, Streamlit, HTML, CSS
@@ -133,7 +133,7 @@ Software Development
 .
 
 Software Development
-### 18. End-end full-stack SaaS webapp (dashboard) for building flaws detection using Django, PostgresSQL, and AWS
+### 19. End-end full-stack SaaS webapp (dashboard) for building flaws detection using Django, PostgresSQL, and AWS
    • In-house system to provide scalable AI services to global clients 
    
    • **Tools**: Python, Django, PostgresSQL, AWS
@@ -141,6 +141,18 @@ Software Development
    • **Role, Company (Year)**: Associate Developer- in team, InspektAI LLC Ltd., USA (2023) 
    
    • **Code Repo**: Restriced v1 [**Link**](https://github.com/NavidBinAhmed/iai-django-dashboard-main-v1.git) and v2 [**Link**](https://github.com/NavidBinAhmed/iai-django-dashboard-main-v2.git), live production is deployed here [**Link**](https://dashboardui.inspektai.com/)
+
+.
+
+Software Development : Scripting
+### 18. AWS S3 Image Processing Pipeline using Python, Boto3, and PIL
+   • Scripts to rename, resize and compress images 
+   
+   • **Tools**: Python, Boto3, PIL, AWS S3
+   
+   • **Role, Company (Year)**: Associate Developer- in team, InspektAI LLC Ltd., USA (2023) 
+   
+   • **Code Repo**: Restriced [**Link**](https://github.com/NavidBinAhmed/iai-aws-image-middleware-pipeline)
 
 .
 
