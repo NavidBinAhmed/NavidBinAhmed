@@ -43,11 +43,13 @@
 [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed) since 2025
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 🤝 Projects : 24, as of Jan-2025
+## 🤝 Projects : 25, as of Jan-2025
 
 - **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Node.JS: 1)
   
 - **Artificial Intelligence & Machine Learning: 10**   (Computer Vision: 3  ,  NLP: 2 , Agentic AI: 1)
+
+- Scripting : 1
 
 - Embedded IoT & Firmware: 6
 
@@ -144,7 +146,7 @@ Software Development
 
 .
 
-Software Development : Scripting
+Scripting
 ### 18. AWS S3 Image Processing Pipeline using Python, Boto3, and PIL
    • Scripts to rename, resize and compress images 
    
