@@ -140,7 +140,7 @@ Software Development
    
    • **Role, Company (Year)**: Associate Developer- in team, InspektAI LLC Ltd., USA (2023) 
    
-   • **Code Repo**: Restriced v1 and v2, demo can be found here [**Link**](https://dashboardui.inspektai.com/)
+   • **Code Repo**: Restriced v1 [**Link**](https://github.com/NavidBinAhmed/iai-django-dashboard-main-v1.git) and v2 [**Link**](https://github.com/NavidBinAhmed/iai-django-dashboard-main-v2.git), live production is deployed here [**Link**](https://dashboardui.inspektai.com/)
 
 .
 
