@@ -142,7 +142,7 @@ Software Development
    
    • **Role, Company (Year)**: Associate Developer- in team, InspektAI LLC Ltd., USA (2023) 
    
-   • **Code Repo**: Restriced v1 [**Link**](https://github.com/NavidBinAhmed/iai-django-dashboard-main-v1.git) and v2 [**Link**](https://github.com/NavidBinAhmed/iai-django-dashboard-main-v2.git), live production is deployed here [**Link**](https://dashboardui.inspektai.com/)
+   • **Code Repo**: Restriced v1 [**GitHub**](https://github.com/NavidBinAhmed/iai-django-dashboard-main-v1.git) and v2 [**GitHub**](https://github.com/NavidBinAhmed/iai-django-dashboard-main-v2.git), production [**Live**](https://dashboardui.inspektai.com/)
 
 .
 
@@ -154,7 +154,7 @@ Scripting
    
    • **Role, Company (Year)**: Associate Developer- in team, InspektAI LLC Ltd., USA (2023) 
    
-   • **Code Repo**: Restriced [**Link**](https://github.com/NavidBinAhmed/iai-aws-image-middleware-pipeline)
+   • **Code Repo**: Restriced [**GitHub**](https://github.com/NavidBinAhmed/iai-aws-image-middleware-pipeline)
 
 .
 
