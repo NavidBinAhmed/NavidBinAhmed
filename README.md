@@ -67,7 +67,7 @@ Data Pipeline & RP Automation Scripting - Data Pipeline Dashboard
    
    • **Tools**: Python, FastAPI, SQLAlchemy, PostgreSQL, and React
    
-   • **Role, Company (Year)**: NA (2025) 
+   • **Role, Company (Year)**: Developer, DemoWD (2025) 
    
    • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/westdig_data_pipeline)
 
