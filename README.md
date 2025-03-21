@@ -63,7 +63,7 @@
  **************************** 
 Data Pipeline & RP Automation Scripting - Data Pipeline Dashboard
 ### 26. Data Pipeline and Visualization Dashboard using Python, FastAPI, SQLAlchemy, PGAdmin 4 for PostgreSQL, and React
-   • Full-Stack data analysis and visualization web application 
+   • Full-stack data analysis and visualization web application 
    
    • **Tools**: Python, FastAPI, SQLAlchemy, PostgreSQL, and React
    
