@@ -2,7 +2,7 @@
 
 👋 **Passionate Data Scientist** from Bangladesh specializing in Python and JavaScript - **Python for AI use cases and Django-based web development** and **JavaScript for full-stack development** to add substantial business values that solve particular problems as a complete product
 
-👨‍💻 Experiences: **Machine Learning** Engineering + **Full-Stack Software Development** Engineering + IoT Research & Development with 24 projects delivered
+👨‍💻 Experiences: **Machine Learning** Engineering + **Full-Stack Software Development** Engineering + IoT Research & Development with 26 projects developed
 
 
 <p align="left"> 
@@ -43,13 +43,13 @@
 [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed) since 2025
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 🤝 Projects : 25, as of Jan-2025
+## 🤝 Projects : 26, as of Mar-2025
 
-- **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Node.JS: 1)
+- **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Node.JS: 1) **++ ReactJS / 3JS integrated ML and Data Pipeline: 3**
   
-- **Artificial Intelligence & Machine Learning: 10**   (Computer Vision: 3  ,  NLP: 2 , Agentic AI: 1)
+- **Artificial Intelligence & Machine Learning: 10**   (Machine Learning: 4 , Computer Vision: 3  ,  NLP: 2 , Agentic AI: 1)
 
-- Scripting : 1
+- Data Pipeline & RP Automation Scripting : 2
 
 - Embedded IoT & Firmware: 6
 
@@ -61,6 +61,17 @@
 
   
  **************************** 
+Data Pipeline & RP Automation Scripting - Data Pipeline Dashboard
+### 26. Data Pipeline and Visualization Dashboard using Python, FastAPI, SQLAlchemy, PGAdmin 4 for PostgreSQL, and React
+   • Scripts to rename, resize and compress images 
+   
+   • **Tools**: Python, Boto3, PIL, AWS S3
+   
+   • **Role, Company (Year)**: Associate Developer- in team, InspektAI LLC Ltd., USA (2023) 
+   
+   • **Code Repo**: Restriced [**GitHub**](https://github.com/NavidBinAhmed/iai-aws-image-middleware-pipeline)
+
+.
 
 Artificial Intelligence & Machine Learning
 ### 25. End-end Breast Cancer Predictor API using Machine Learning and Render    
@@ -146,7 +157,7 @@ Software Development
 
 .
 
-Scripting
+Data Pipeline & RP Automation Scripting - Python Scripting for AWS
 ### 18. AWS S3 Image Processing Pipeline using Python, Boto3, and PIL
    • Scripts to rename, resize and compress images 
    
