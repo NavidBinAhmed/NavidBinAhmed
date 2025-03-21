@@ -63,13 +63,13 @@
  **************************** 
 Data Pipeline & RP Automation Scripting - Data Pipeline Dashboard
 ### 26. Data Pipeline and Visualization Dashboard using Python, FastAPI, SQLAlchemy, PGAdmin 4 for PostgreSQL, and React
-   • Scripts to rename, resize and compress images 
+   • Full-stack data analysis and visualization web application 
    
-   • **Tools**: Python, Boto3, PIL, AWS S3
+   • **Tools**: Python, FastAPI, SQLAlchemy, PostgreSQL, and React
    
-   • **Role, Company (Year)**: Associate Developer- in team, InspektAI LLC Ltd., USA (2023) 
+   • **Role, Company (Year)**: NA (2025) 
    
-   • **Code Repo**: Restriced [**GitHub**](https://github.com/NavidBinAhmed/iai-aws-image-middleware-pipeline)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/westdig_data_pipeline)
 
 .
 
