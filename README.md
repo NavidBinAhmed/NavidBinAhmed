@@ -289,7 +289,7 @@ Embedded IoT, Firmware, & Artificial Intelligence (Computer Vision- Audio)
    
    • **Role, Company (Year)**: Lead Developer - in team, GroundUP AI Pte Ltd. Singapore (2021) 
    
-   • **Code Repo & Details Demo**: Code is restricted, Can be read from the News [**Link**](https://www.theedgesingapore.com/digitaledge/technopreneurs/how-machine-doctor-groundupai-uses-sounds-industrial-predictive)
+   • **Code Repo & Details Demo**: Code is restricted [**here**](https://github.com/NavidBinAhmed/I2S-Sound-based-Predictive-Analytics-System), Can be read from the News [**Link**](https://www.theedgesingapore.com/digitaledge/technopreneurs/how-machine-doctor-groundupai-uses-sounds-industrial-predictive)
 
 .
 
