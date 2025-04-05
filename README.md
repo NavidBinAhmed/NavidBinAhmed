@@ -117,7 +117,7 @@ Software Development
    
    • **Role, Company (Year)**: Developer - solo, VolumeFI USA (2024) 
    
-   • **Details Demo**: [**GitHub**](https://github.com/NavidBinAhmed/webapp_flight-path-tracker-javascript)
+   • **Details Demo**: Restricted [**GitHub**](https://github.com/NavidBinAhmed/webapp_flight-path-tracker-javascript)
 
 .
 
