@@ -62,14 +62,14 @@
   
  **************************** 
 Data Pipeline & RP Automation Scripting - Data Pipeline Dashboard
-### 26. Data Pipeline and Visualization Dashboard using Python, FastAPI, SQLAlchemy, PGAdmin 4 for PostgreSQL, and React
+### 26. Full-Stack Data Pipeline and Visualization Dashboard using Python, FastAPI, SQLAlchemy, PostgreSQL/PGAdmin 4, React, and Render
    • Full-stack data analysis and visualization web application 
    
    • **Tools**: Python, FastAPI, SQLAlchemy, PostgreSQL, and React
    
    • **Role, Company (Year)**: Developer, DemoWD (2025) 
    
-   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/westdig_data_pipeline)
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/westdig_data_pipeline) | [**Live**](wddp.onrender.com)
 
 .
 
