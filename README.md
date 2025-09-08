@@ -62,10 +62,10 @@
   
  **************************** 
 Data Pipeline & RP Automation Scripting - Data Pipeline Dashboard
-### 26. Full-Stack Data Pipeline and Visualization Dashboard using Python, FastAPI, SQLAlchemy, PostgreSQL/PGAdmin 4, React, and Render
+### 26. Full-Stack Data Pipeline and Visualization Dashboard using Python, FastAPI, SQLAlchemy, PostgreSQL/PGAdmin 4, React.js, and Render
    • Full-stack data analysis and visualization web application 
    
-   • **Tools**: Python, FastAPI, SQLAlchemy, PostgreSQL, and React
+   • **Tools**: Python, FastAPI, SQLAlchemy, PostgreSQL, and React.js
    
    • **Role, Company (Year)**: Developer, DemoWD (2025) 
    
@@ -110,10 +110,10 @@ Artificial Intelligence & Machine Learning
 .
 
 Software Development
-### 22. Flight path tracker microservice API using Node.JS (Express)     
+### 22. Flight path tracker microservice API using Node.js (Express.js)     
    • Tracks and determines a passenger's flight path from unordered pair(s) of flight records
    
-   • **Tools**: Node.JS (Express), Json, HTML, RESTful API, Postman
+   • **Tools**: Node.js (Express.js), Json, HTML, RESTful API, Postman
    
    • **Role, Company (Year)**: Developer - solo, VolumeFI USA (2024) 
    
