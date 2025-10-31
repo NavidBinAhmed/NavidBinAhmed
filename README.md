@@ -45,11 +45,11 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤝 Projects : 26, as of Mar-2025
 
-- **Software Development: 6**   (Django: 2  ,  Flask: 2  ,  Streamlit: 1, Node.JS: 1) **++ ReactJS / 3JS integrated ML and Data Pipeline: 3**
+- **Full-Stack AI / Software Development: 8**   (Django: 2  ,  Flask: 2  ,  FastAPI: 2, Streamlit: 1, Node.JS: 1) **++ ReactJS / 3JS integrated ML and Data Pipeline: 3**
   
-- **Artificial Intelligence & Machine Learning: 10**   (Machine Learning: 4 , Computer Vision: 3  ,  NLP: 2 , Agentic AI: 1)
+- **Artificial Intelligence & Machine Learning: 11**   (Machine Learning: 4 , Computer Vision: 3  ,  NLP: 2 , Agentic AI: 2)
 
-- Data Pipeline & RP Automation Scripting : 2
+- Data Pipeline & RP Automation Scripting : 3 (FastAPI: 1)
 
 - Embedded IoT & Firmware: 6
 
@@ -61,6 +61,41 @@
 
   
  **************************** 
+Full-Stack AI: Artificial Intelligence & Machine Learning
+### 29. AI Agent for Marketing using Python, FastAPI, LangGraph, React.js, SerpAPI & Google Gemini APIs
+   • Building world's first and Europe's most demanding automated SME succession platform 
+   
+   • **Tools**: Python, FastAPI, LangGraph, SerpAPI, Google Gemini API, and React.js
+   
+   • **Role, Company (Year)**: Developer, NA (2025) 
+   
+   • **Code Repo**: GitHub - to be updated
+.
+
+Full-Stack AI
+### 28. Full-Stack Intelligent Business Succession Platform using Python, FastAPI, Machine Learning, and React.js
+   • Building world's first and Europe's most demanding automated SME succession platform 
+   
+   • **Tools**: Python, FastAPI, and React.js
+   
+   • **Role, Company (Year)**: Developer, NA (2025) 
+   
+   • **Code Repo**: **GitHub** to be updated
+
+.
+ 
+Data Pipeline & RP Automation Scripting - Workflow Automation
+### 27. Workflow Automation using Apache Airflow and Python
+   • Building of DAGs - Directed Acrylic Graphs to automate workflows 
+   
+   • **Tools**: Python, Apache Airflow
+   
+   • **Role, Company (Year)**: Developer, FXAI (2025) 
+   
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/apache_airflow_dag)
+
+.
+
 Data Pipeline & RP Automation Scripting - Data Pipeline Dashboard
 ### 26. Full-Stack Data Pipeline and Visualization Dashboard using Python, FastAPI, SQLAlchemy, PostgreSQL/PGAdmin 4, React.js, and Render
    • Full-stack data analysis and visualization web application 
