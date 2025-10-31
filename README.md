@@ -62,14 +62,14 @@
   
  **************************** 
 Full-Stack AI: Artificial Intelligence & Machine Learning
-### 29. Full-Stack AI Agent for Marketing Workflow Orchestration using Python, FastAPI, LangGraph, React.js, SerpAPI & Google Gemini APIs
+### 29. Full-Stack AI Agent for Marketing Workflow Orchestration using Python, FastAPI, LangGraph, React.js, SerpAPI, Google Gemini API, & Render
    • Building world's first and Europe's most demanding automated SME succession platform 
    
    • **Tools**: Python, FastAPI, LangGraph, SerpAPI, Google Gemini API, and React.js
    
    • **Role, Company (Year)**: Developer, NA (2025) 
    
-   • **Code Repo**: GitHub - to be updated
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/AI-agent-marketing) | [**Live**](https://magent.onrender.com/) | Backend [**Link**](https://marketing-mba-backend.onrender.com/)
 
 .
 
