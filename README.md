@@ -62,7 +62,7 @@
   
  **************************** 
 Full-Stack AI: Artificial Intelligence & Machine Learning
-### 29. AI Agent for Marketing using Python, FastAPI, LangGraph, React.js, SerpAPI & Google Gemini APIs
+### 29. Full-Stack AI Agent for Marketing Workflow Orchestration using Python, FastAPI, LangGraph, React.js, SerpAPI & Google Gemini APIs
    • Building world's first and Europe's most demanding automated SME succession platform 
    
    • **Tools**: Python, FastAPI, LangGraph, SerpAPI, Google Gemini API, and React.js
