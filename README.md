@@ -62,8 +62,8 @@
   
  **************************** 
 Full-Stack AI: Artificial Intelligence & Machine Learning
-### 29. Full-Stack AI Agent for Marketing Workflow Orchestration using Python, FastAPI, LangGraph, React.js, SerpAPI, Google Gemini API, & Render
-   • Building world's first and Europe's most demanding automated SME succession platform 
+### 29. InsightFlow: Intelligence Agent - Full-Stack Brand & Marketing Growth Assistant & Workflow Orchestration using Python, FastAPI, LangGraph, React.js, SerpAPI, Google Gemini API, & Render
+   • SerpAPI researches raw news with sources and Google Gemini API produces summarized LLM output with insights to help grow products' and services' outreach  
    
    • **Tools**: Python, FastAPI, LangGraph, SerpAPI, Google Gemini API, and React.js
    
