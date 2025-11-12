@@ -19,9 +19,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
 
-🏆 **Ranked** by AD Scientific Index among Asia’s top 62% of [scientists](https://www.adscientificindex.com/scientist/navid-bin-ahmed/4754194) (since 2023) || **Named** by UPG Geneva as a Global Sustainability Leader for the contnuous commitment towards technology research, innovative development, and [collaboration](https://iub.ac.bd/news-and-events/news-and-media-archive/2022-February/64bcc37d1ed3686b1f2cb1a9) || **Winner** in the UPG's 2023 global campaign from South Asia [Region](https://www.dhakatribune.com/bangladesh/education/342648/iub-alumnus-navid-wins-global-recognition-as-upg) || **Technovation** and Beautiful Life Championship - dual awardee at the SDG Open Hack! Bangkok 2022 for ShiatsuOne- AI innovation in [healthcare](https://www.thedailystar.net/business/organisation-news/press-releases/news/detection-covid-ex-iub-student-led-team-wins-award-thailand-3065046) || **Featured** by 68+ news media and tech organisations worldwide (as of Oct-2025) 
+🏆 **Ranked** by AD Scientific Index among Asia’s top 62% of [scientists](https://www.adscientificindex.com/scientist/navid-bin-ahmed/4754194) (since 2023) || **Named** by UPG Geneva as a Global Sustainability Leader for the contnuous commitment towards technology research, innovative development, and [collaboration](https://iub.ac.bd/news-and-events/news-and-media-archive/2022-February/64bcc37d1ed3686b1f2cb1a9) || **Winner** in the UPG's 2023 global campaign from South Asia [Region](https://www.dhakatribune.com/bangladesh/education/342648/iub-alumnus-navid-wins-global-recognition-as-upg) || **Technovation** and Beautiful Life Championship - dual awardee at the SDG Open Hack! Bangkok 2022 for ShiatsuOne- AI innovation in [healthcare](https://www.thedailystar.net/business/organisation-news/press-releases/news/detection-covid-ex-iub-student-led-team-wins-award-thailand-3065046) || **Featured** by 68+ news media and tech organisations worldwide (as of Nov-2025).
 
-👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and companies
+👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and organizations.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavidBinAhmed" alt="NavidBinAhmed" /></a> </p>
 
@@ -43,7 +43,7 @@
 [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed) since 2025
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 🤝 Projects : 26, as of Mar-2025
+## 🤝 Projects : 29, as of Nov-2025
 
 - **Full-Stack AI / Software Development: 8**   (Django: 2  ,  Flask: 2  ,  FastAPI: 2, Streamlit: 1, Node.JS: 1) **++ ReactJS / 3JS integrated ML and Data Pipeline: 3**
   
