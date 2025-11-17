@@ -31,6 +31,8 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NavidBinAhmed&theme=react&layout=compact" alt="GitHub Streak" /></a>
 
+<a href="https://git.io/activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=NavidBinAhmed&theme=react&layout=compact" alt="Activity Graph" /></a>
+
 📫Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/navidbinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navidbinahmed" height="30" width="40" /></a>
