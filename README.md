@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NavidBinAhmed&show_icons=true&locale=en" alt="NavidBinAhmed" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NavidBinAhmed&" alt="NavidBinAhmed"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=NavidBinAhmed&show_icons=true&locale=en" alt="NavidBinAhmed"/></p>
 
 
 📫Connect with me
