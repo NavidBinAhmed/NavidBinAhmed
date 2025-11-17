@@ -23,7 +23,7 @@
 
 👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and organizations.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavidBinAhmed" alt="Profile Trophy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavidBinAhmed&show_icons=true&locale=en&theme=react&layout=compact" alt="Profile Trophies" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NavidBinAhmed&show_icons=true&locale=en&theme=react&layout=compact" alt="Top Languages" /></p>
 
@@ -31,7 +31,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NavidBinAhmed&theme=react&layout=compact" alt="GitHub Streak" /></a>
 
-📫Connect with me
+📫Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/navidbinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navidbinahmed" height="30" width="40" /></a>
 <a href="https://medium.com/@navidbinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@navidbinahmed" height="30" width="40" /></a>
