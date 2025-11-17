@@ -25,9 +25,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavidBinAhmed" alt="NavidBinAhmed" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NavidBinAhmed&show_icons=true&locale=en&layout=compact" alt="NavidBinAhmed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NavidBinAhmed&show_icons=true&locale=en&theme=react&layout=compact" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NavidBinAhmed&show_icons=true&locale=en" alt="NavidBinAhmed" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NavidBinAhmed&show_icons=true&locale=en&theme=react&layout=compact" alt="Readme Stats" /></p> 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NavidBinAhmed&theme=react&layout=compact" alt="GitHub Streak" /></a>
 
