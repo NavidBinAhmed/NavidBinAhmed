@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NavidBinAhmed&show_icons=true&locale=en&theme=react&layout=compact" alt="Readme Stats" /></p> 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NavidBinAhmed&theme=default&layout=compact" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NavidBinAhmed&layout=compact" alt="GitHub Streak" /></a>
 
 📫Connect with me
 <p align="left">
