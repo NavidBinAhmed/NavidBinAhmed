@@ -2,7 +2,7 @@
 
 👋 **Passionate Full-Stack AI Engineer (Applied Data Scientist)** from Bangladesh specializing in Python and JavaScript - **Python for AI use cases and FastAPI / Django-based backend development** and **JavaScript for React.JS-based frontend development** to add substantial business values that solve particular problems as a complete product.
 
-👨‍💻 Experiences: **Machine Learning** Engineering + **Full-Stack Software Development** Engineering + IoT Research & Development, with 29 projects developed.
+👨‍💻 Experiences: **Machine Learning** Engineering + **Full-Stack Software Development** Engineering + IoT Research & Development, with 30 projects developed.
 
 
 <p align="left"> 
@@ -19,7 +19,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
 
-🏆 **Ranked** by AD Scientific Index among Asia’s top 72% of CS [scientists](https://www.adscientificindex.com/scientist/navid-bin-ahmed/4754194) (since 2023) || **Named** by UPG Geneva as a Global Sustainability Leader for the contnuous commitment towards technology research, innovative development, and [collaboration](https://iub.ac.bd/news-and-events/news-and-media-archive/2022-February/64bcc37d1ed3686b1f2cb1a9) || **Winner** in the UPG's 2023 global campaign from South Asia [Region](https://www.dhakatribune.com/bangladesh/education/342648/iub-alumnus-navid-wins-global-recognition-as-upg) || **Technovation** and Beautiful Life Championship - dual awardee at the SDG Open Hack! Bangkok 2022 for ShiatsuOne- AI innovation in [healthcare](https://www.thedailystar.net/business/organisation-news/press-releases/news/detection-covid-ex-iub-student-led-team-wins-award-thailand-3065046) || **Featured** by 68+ news media and tech organisations worldwide (as of Dec-2025).
+🏆 **Ranked** by AD Scientific Index among Asia’s top 72% of CS [scientists](https://www.adscientificindex.com/scientist/navid-bin-ahmed/4754194) (since 2023) || **Named** by UPG Geneva as a Global Sustainability Leader for the contnuous commitment towards technology research, innovative development, and [collaboration](https://iub.ac.bd/news-and-events/news-and-media-archive/2022-February/64bcc37d1ed3686b1f2cb1a9) || **Winner** in the UPG's 2023 global campaign from South Asia [Region](https://www.dhakatribune.com/bangladesh/education/342648/iub-alumnus-navid-wins-global-recognition-as-upg) || **Technovation** and Beautiful Life Championship - dual awardee at the SDG Open Hack! Bangkok 2022 for ShiatsuOne- AI innovation in [healthcare](https://www.thedailystar.net/business/organisation-news/press-releases/news/detection-covid-ex-iub-student-led-team-wins-award-thailand-3065046) || **Featured** by 68+ news media and tech organisations worldwide (as of Feb-2026).
 
 👍 Do have a passion for applying my award-winning technical and leadership skills to create value across teams and organizations.
 
@@ -62,6 +62,18 @@
 
   
  **************************** 
+Artificial Intelligence & Machine Learning : MLOps
+### 30. Wine quality detector as complete machine learning feature with operations (MLOps) using Python, ML Flow, HTML/CSS, & Render
+   • ML feature for wine quality detection equipped with observability, monitoring, and operations   
+   
+   • **Tools**: Python, ML Flow, HTML/CSS, & Render
+   
+   • **Role, Company (Year)**: Developer, NA (2026) 
+   
+   • **Code Repo**: [**GitHub**](https://github.com/NavidBinAhmed/wine-quality-detector-with-mlops) | [**Live**](https://wq.onrender.com/)
+
+.
+
 Full-Stack AI: Artificial Intelligence & Machine Learning
 ### 29. InsightFlow: Intelligence Agent - Full-Stack Brand & Marketing Growth Assistant & Workflow Orchestration using Python, FastAPI, LangGraph, React.js, SerpAPI, Google Gemini API, & Render
    • SerpAPI researches raw news with sources and Google Gemini API produces summarized LLM output with insights to help grow products' and services' outreach  
