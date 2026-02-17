@@ -44,7 +44,7 @@
 [![HitCount](https://hits.dwyl.com/navidbinahmed/navidbinahmed.svg?style=flat-square)](http://hits.dwyl.com/navidbinahmed/navidbinahmed) since 2025
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 🤝 Projects : 29, as of Nov-2025
+## 🤝 Projects : 30, as of Nov-2025
 
 - **Full-Stack AI / Software Development: 8**   (Django: 2  ,  Flask: 2  ,  FastAPI: 2, Streamlit: 1, Node.JS: 1) **++ ReactJS / 3JS integrated ML and Data Pipeline: 3**
   
