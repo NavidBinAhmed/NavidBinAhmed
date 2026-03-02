@@ -1,6 +1,6 @@
 # Full-Stack AI Engineer (Applied Data Scientist)
 
-👋 **Passionate Full-Stack AI Engineer (Applied Data Scientist)** from Bangladesh specializing in Python and JavaScript - **Python for AI use cases and FastAPI / Django-based backend development** and **JavaScript for React.JS-based frontend development** to add substantial business values that solve particular problems as a complete product.
+👋 **Passionate Full-Stack AI Engineer (Applied Data Scientist)** from Bangladesh specializing in Python and JavaScript - **Python for AI use cases and FastAPI / Django-based backend development** and **JavaScript for React.JS-based frontend development** that solves a particular problem adding substantial business values as a complete product.
 
 👨‍💻 Experiences: **Machine Learning** Engineering + **Full-Stack Software Development** Engineering + IoT Research & Development, with 30 projects developed.
 
