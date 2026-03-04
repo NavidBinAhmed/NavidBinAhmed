@@ -57,8 +57,8 @@
 - Electronics: 2
 
 - **Future ideas:**
-    - Expanding as full-stack products integrating advanced user interfaces by using ParticleJS, VanilaJS, Extended CSS, and Databases [pranay](https://github.com/bomma-Pranay/)
-    - Automate the end-end process using Github Action to collect data using real time API, retrain model, and complete deployment
+    - integrating advanced UI by using ParticleJS, VanilaJS, Extended CSS, and DB [pranay](https://github.com/bomma-Pranay/)
+    - Automate the e2e process using Github Action to collect data from live API, retrain model, and complete deployment
 
   
  **************************** 
@@ -147,7 +147,7 @@ Artificial Intelligence & Machine Learning
 .
 
 Artificial Intelligence & Machine Learning
-### 23. End-end house price predictor AI webapp using Linear Regression, Flask and Render     
+### 23. Real Estate Valuation Engine | Python, Scikit-learn, Linear Regression, Flask and Render     
    • Predicts house price based on users’ input 
    
    • **Tools**: Python, Linear Regression, Sklearn, Flask, RESTful API, Render
